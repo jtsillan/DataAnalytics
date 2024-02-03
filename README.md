@@ -5,4 +5,4 @@
 Basic Data Analytics using Python, NumPy, Pandas. Jupyter notebook files for different exercise sets.
 
 ## License
-Copyright by author.
+GNU General Public License version 3.
